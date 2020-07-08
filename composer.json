@@ -27,6 +27,7 @@
 		"wpackagist-plugin/amazon-web-services": "1.0.5",
 		"wpackagist-plugin/amazon-s3-and-cloudfront": "2.3.2",
 		"wpackagist-plugin/sendgrid-email-delivery-simplified": "1.11.8",
+		"wpackagist-plugin/wp-rss-aggregator": "4.17.5",
 		"wp-cli/wp-cli": "2.4.1",
 		"wpackagist-theme/twentyfifteen": "*",
 		"dzuelke/twentyfifteen-child": "*"

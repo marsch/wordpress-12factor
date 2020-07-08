@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ff15c8b9f9fd8b76daf96eb70b29d245",
+    "content-hash": "ebbcd59063870d2ddfe0abb5aad6a5a7",
     "packages": [
         {
             "name": "composer/installers",
@@ -633,6 +633,24 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/sendgrid-email-delivery-simplified/"
+        },
+        {
+            "name": "wpackagist-plugin/wp-rss-aggregator",
+            "version": "4.17.5",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/wp-rss-aggregator/",
+                "reference": "tags/4.17.5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/wp-rss-aggregator.4.17.5.zip"
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/wp-rss-aggregator/"
         },
         {
             "name": "wpackagist-theme/twentyfifteen",
